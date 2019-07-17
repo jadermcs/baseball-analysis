@@ -2,7 +2,7 @@
 # Analise dos dados _Baseball Data_
 
 Um estudo dos dados estatísticos do Major League Baseball de 1871 a 2014.
-<img src="http://images.thesurge.com/app/uploads/2016/03/Baseball.jpg?x15124" width="300">
+<img src="baseball.jpg" width="300">
 
 
 ```python
